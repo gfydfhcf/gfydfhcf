@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm gfydfhcf
 
-🎓 Freshman in Applied Electronics ｜ 🌱 Learning C / Python ｜ 🤖 I enjoy wiring AI into everyday apps
+🎓 Freshman in Applied Electronics ｜ 🌱 Learning C / Python 
 
 #### About Me
 
