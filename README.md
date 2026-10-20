@@ -1,15 +1,15 @@
 ### Hi there 👋, I'm gfydfhcf
 
-🎓 大一在读 · 应用电子技术 ｜ 🌱 正在学 C / Python ｜ 🤖 喜欢把 AI 接进各种地方
+🎓 Freshman in Applied Electronics ｜ 🌱 Learning C / Python ｜ 🤖 I enjoy wiring AI into everyday apps
 
-#### 关于我
+#### About Me
 
-- 🎓 应用电子技术专业，大一在读
-- 🌱 正在学习：C 语言、Python、电工基础
-- 🤖 代表作：[wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) —— 把 AI 助理（Meta Muse）通过腾讯官方 iLink 协议接进微信：长轮询收消息、连发消息合并、主动推送、"正在输入"状态、媒体断点续传
-- ⚡ 座右铭：饭要一口一口吃，代码要一行一行写
+- 🎓 Freshman majoring in Applied Electronics Technology
+- 🌱 Currently learning: C, Python, and Electrical Fundamentals
+- 🤖 Featured project: [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) — connecting an AI assistant (Meta Muse) to WeChat via Tencent's official iLink protocol: long-polling message stream, burst-message merging, proactive push, typing indicator, and resumable media downloads
+- ⚡ Motto: One bite at a time; one line of code at a time.
 
-#### 🛠 正在用的
+#### 🛠 Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
