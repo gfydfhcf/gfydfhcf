@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Freshman+in+Applied+Electronics;Building+a+WeChat+AI+bridge;One+bite+at+a+time%2C+one+line+of+code+at+a+time" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gfydfhcf&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
-</p>
-
 🎓 Freshman in Applied Electronics ｜ 🌱 Learning C / Python 
 
 #### About Me
@@ -31,6 +27,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=gfydfhcf&label=Profile%20views&color=7aa2f7&style=flat)
 
 #### 📊 GitHub Stats
 
