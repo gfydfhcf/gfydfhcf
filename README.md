@@ -15,7 +15,7 @@
 
 #### 🔭 Currently
 
-- 🚀 Shipped **v1.1.0** of [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) — a zero-dependency WeChat iLink bot bridge, now with a code-enforced owner allowlist and first-owner binding
+- 🚀 Shipped **v1.2.0** of [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) — a zero-dependency WeChat iLink bot bridge, now with fail-closed send ledger, warm-wait replies, and hardened queue recovery
 - 🌱 Going deeper on C and Python through freshman coursework
 - 🖥️ Self-hosting little services on an Oracle Cloud box
 
