@@ -15,7 +15,7 @@
 
 #### 🔭 Currently
 
-- 🚀 Shipped **v1.3.0** of [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) — a zero-dependency WeChat iLink bot bridge, now with subscription update reminders, one-sentence install, a liveness watchdog, rollback, and offline stats
+- 🚀 Shipped **v1.3.2** of [wechat-ilink-muse-bridge](https://github.com/gfydfhcf/wechat-ilink-muse-bridge) — a zero-dependency WeChat iLink bot bridge, now with subscription update reminders, one-sentence install, a liveness watchdog, rollback, and offline stats
 - 🌱 Going deeper on C and Python through freshman coursework
 - 🖥️ Self-hosting little services on an Oracle Cloud box
 
@@ -32,7 +32,7 @@
 #### 📊 GitHub Stats
 
 [![Stars](https://img.shields.io/github/stars/gfydfhcf/wechat-ilink-muse-bridge?style=flat&logo=github)](https://github.com/gfydfhcf/wechat-ilink-muse-bridge/stargazers)
-[![Forks](https://img.shields.io/github/forks/gfydfhcf/wechat-ilink-muse-bridge?style=flat&logo=github)](https://github.com/gfydfhcf/wechat-ilink-muse-bridge/forks)
+[![Forks](https://img.shields.io/github/forks/gfydfhcf/wechat-ilink-muse-bridge?style=flat&logo=github&cacheSeconds=3600)](https://github.com/gfydfhcf/wechat-ilink-muse-bridge/forks)
 [![Followers](https://img.shields.io/github/followers/gfydfhcf?style=flat&logo=github)](https://github.com/gfydfhcf?tab=followers)
 
 <img src="https://streak-stats.demolab.com?user=gfydfhcf&theme=tokyonight" alt="GitHub Streak" />
