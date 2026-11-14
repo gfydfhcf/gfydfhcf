@@ -31,10 +31,9 @@
 
 #### 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gfydfhcf&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfydfhcf&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![Stars](https://img.shields.io/github/stars/gfydfhcf/wechat-ilink-muse-bridge?style=flat&logo=github)](https://github.com/gfydfhcf/wechat-ilink-muse-bridge/stargazers)
+[![Forks](https://img.shields.io/github/forks/gfydfhcf/wechat-ilink-muse-bridge?style=flat&logo=github)](https://github.com/gfydfhcf/wechat-ilink-muse-bridge/forks)
+[![Followers](https://img.shields.io/github/followers/gfydfhcf?style=flat&logo=github)](https://github.com/gfydfhcf?tab=followers)
 
 <img src="https://streak-stats.demolab.com?user=gfydfhcf&theme=tokyonight" alt="GitHub Streak" />
 
